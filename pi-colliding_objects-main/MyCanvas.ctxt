@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MyCanvas
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyCanvas\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=pcanvasSize
+comment1.target=MyCanvas(int)
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=g2
+comment3.target=void\ draw(java.awt.Graphics2D)
+comment4.params=
+comment4.target=void\ movement()
+comment5.params=
+comment5.target=void\ collision()
+comment6.params=
+comment6.target=void\ stopAnimation()
+numComments=7
